@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For DFRobot_digitalPot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_digitalPot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+digitalPotwrite	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+POT0_SEL	LITERAL1
+POT1_SEL	LITERAL1
+BOTH_POT_SEL	LITERAL1
+POT0_SHUTDOWN	LITERAL1
+POT1_SHUTDOWN	LITERAL1
+BOTH_POT_SHUTDOWN	LITERAL1
+
